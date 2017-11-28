@@ -1,0 +1,15 @@
+F:\VS\Bankomat\Bankomat\obj\Debug\Bankomat.csprojResolveAssemblyReference.cache
+F:\VS\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+F:\VS\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+F:\VS\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+F:\VS\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+F:\VS\Bankomat\Bankomat\obj\Debug\Bankomat.pdb
+F:\VS\Bankomat\Bankomat\bin\Debug\MySql.Data.dll
+F:\VS\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+F:\VS\Bankomat\Bankomat\bin\Debug\EntityFramework.dll
+F:\VS\Bankomat\Bankomat\bin\Debug\EntityFramework.SqlServer.dll
+F:\VS\Bankomat\Bankomat\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\VS\Bankomat\Bankomat\bin\Debug\System.Data.SqlServerCe.dll
+F:\VS\Bankomat\Bankomat\bin\Debug\EntityFramework.xml
+F:\VS\Bankomat\Bankomat\bin\Debug\EntityFramework.SqlServer.xml
+F:\VS\Bankomat\Bankomat\bin\Debug\EntityFramework.SqlServerCompact.xml
